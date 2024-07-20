@@ -1,0 +1,40 @@
+Basándome en la información proporcionada, puedo describir los hallazgos y conclusiones del ejercicio de la siguiente manera:
+
+Hallazgos y Conclusiones:
+
+El ejercicio muestra que se ejecutaron dos pruebas y que ambas fueron exitosas. Las pruebas se llevaron a cabo utilizando un framework de pruebas automatizadas de Cucumber-JVM. La prueba se ejecutó en Windows 11 y tardó 16 segundos en completarse. La prueba se realiza en el sitio web de Demoblaze, y la prueba tiene como objetivo verificar que un usuario puede comprar productos.
+
+Los pasos de la prueba son los siguientes:
+
+El usuario ingresa su nombre de usuario y contraseña.
+El usuario agrega los productos al carrito.
+El usuario ve el carrito.
+El usuario completa el formulario de compra.
+El usuario ve la confirmación de compra.
+La prueba tiene dos ejemplos de datos para ejecutar la prueba:
+
+El primer ejemplo es un usuario llamado "eligomez" y el segundo es "admindemo1".
+La prueba se ejecuta correctamente para ambos ejemplos de datos.
+Hallazgos:
+
+Se ejecutaron dos pruebas (scenarios) con éxito, ambas con la etiqueta @login.
+Cada prueba tiene un conjunto de pasos (steps) que se ejecutan en orden secuencial.
+Los pasos incluyen:
+Iniciar sesión con un usuario y contraseña específicos.
+Agregar productos al carrito.
+Ver el carrito.
+Completar el formulario de compra con información específica (nombre, país, ciudad, número de tarjeta de crédito, mes y año).
+Verificar que se muestre la confirmación de compra.
+Las pruebas se ejecutaron con dos conjuntos de datos diferentes:
+El primer conjunto de datos utiliza el usuario "eligomez" y la contraseña "123456".
+El segundo conjunto de datos utiliza el usuario "admindemo1" y la contraseña "123456".
+Todas las pruebas se ejecutaron con éxito, lo que indica que el sitio web de Demoblaze funciona correctamente para ambos conjuntos de datos.
+Conclusiones:
+
+El sitio web de Demoblaze permite a los usuarios iniciar sesión y completar compras con éxito.
+La funcionalidad de agregar productos al carrito y completar el formulario de compra funciona correctamente.
+La confirmación de compra se muestra correctamente después de completar la compra.
+El sitio web de Demoblaze es compatible con diferentes conjuntos de datos de usuarios y compras.
+En resumen, el ejercicio demuestra que el sitio web de Demoblaze funciona correctamente y permite a los usuarios completar compras con éxito.
+
+Atte. Elí Gómez
